@@ -1,1 +1,1 @@
-# tugas10_javascriptPengenalan-master
+# tugas10_javascriptPengenalan
